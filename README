@@ -5,5 +5,5 @@ Ref: http://e2e.ti.com/support/microcontrollers/msp43016-bit_ultra-low_power_mcu
 
 2) A demo which links MSP430 Launchpad with EzChronos (see "launchpad" folder).
 
-------
+------+--------
 
